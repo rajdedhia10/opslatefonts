@@ -13,4 +13,4 @@ Adds OnePlus Slate Font to your ROM
 -OnePlus for the Fonts
 
 Font packs are taken from OnePlus 5 Open Beta 22<br>
-Any Queries, Contact me on Telegram @ [rajdedhia10](t.me/rajdedhia10)
+Any Queries, Contact me on Telegram @ [rajdedhia10](https://t.me/rajdedhia10)
